@@ -1,0 +1,27 @@
+nav{
+    font-size: 40px;
+    color: chocolate;
+  }
+  h1{
+    font-size: 60px;
+    color: brown;
+    margin-left: 20%;
+  }
+  h2{
+    font-size: 60px;
+    color: brown;
+    margin-left: 20%;
+  }
+  a{
+    color: white;
+  }
+  body{
+    background-color: black;
+  }
+  .drinks .h2{
+    border-radius: 100px;
+  }
+    
+
+  
+ 

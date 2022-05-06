@@ -1,0 +1,32 @@
+h1{
+    font-size: 70px;
+    color:maroon;
+    margin-left: 30%;
+}
+h2{
+    font-size: 50px;
+    color: white;
+    margin-left: 15%;
+
+}
+h3{
+    font-size: 40px;
+    color:maroon;
+    margin-left:30%;
+
+
+}
+body{
+    background-image: url("/img/black.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+nav{
+    font-size: 40px;
+    color: maroon;
+  }
+  a{
+    color: white;
+  }
